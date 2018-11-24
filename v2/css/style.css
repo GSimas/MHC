@@ -556,7 +556,7 @@ ul.timeline li .circle {
 	height: 20px;
 	border: 4px solid #FFFFFF;
 	border-radius: 50%;
-	background-color: #d5d5d5;
+	background-color: #002b72;
 }
 
 ul.timeline li.open .circle {
@@ -1122,7 +1122,7 @@ ul.grid li a,ul.grid li img {
 
 .contact-lab {
 	background: #fff url('../img/contact-bg-2.png') no-repeat;
-	color: #fff;
+	color: #000000;
 }
 
 /*.contact-office .icon-huge, .contact-lab .icon-huge{
