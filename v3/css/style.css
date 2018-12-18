@@ -790,11 +790,9 @@ a.totop-link {
     -o-transition-duration: .2s;
 }
 .experience-details:hover i {
-    font-size: 73px;
     color: #000;
 }
 .experience-details:hover .col-3 {
-    width: 29%;
     transition-duration: .2s;
     -moz-transition-duration: .2s;
     -webkit-transition-duration: .2s;
