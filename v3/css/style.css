@@ -1239,6 +1239,10 @@ iframe, embed, object {
     text-decoration: none;
     text-transform: uppercase;
 }
+.small-button:hover {
+    background-color: #ffb400;
+    color: #fff;
+}
 .recent-comments {
     width: 100%;
     margin: 0 auto;
