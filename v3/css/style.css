@@ -371,7 +371,7 @@ h5 {
     display: none
 }
 .logo img {
-    width: 200 ;
+    width: 200;
     height: 800;
 }
 .menu {
@@ -476,7 +476,7 @@ h5 {
     height: 100%;
 }
 .content-wrapper {
-    width: 7356px;
+    width: 400vw;
     position: absolute;
     height: 100%;
     overflow: hidden;
@@ -486,7 +486,7 @@ h5 {
     background-color: #000;
 }
 .content {
-    width: 804px;
+    width: 84vw;
     overflow-y: scroll;
     height: 100%;
     float: left;
