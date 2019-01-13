@@ -234,6 +234,10 @@
         font-size: 23px;
         color: #FFF;
     }
+    .blocomobile {
+        margin: 150px;
+        display: block;
+    }
     .menu-link:hover {
         color: #999;
     }
