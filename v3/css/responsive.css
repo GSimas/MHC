@@ -238,6 +238,10 @@
         margin: 150px;
         display: block;
     }
+    .blocomobile img {
+        width: 200px;
+        height: 200px;
+    }
     .menu-link:hover {
         color: #999;
     }
