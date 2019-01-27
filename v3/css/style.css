@@ -191,9 +191,9 @@ h3 {
     margin: 50px 0 10px;
 }
 h4 {
-    font-size: 25px;
+    font-size: 2vw;
     font-weight: 100;
-    line-height: 30px;
+    line-height: 2vw;
     margin: 0;
 }
 h5 {
@@ -391,6 +391,7 @@ h5 {
     left: 0px;
     right: 0px;
     bottom: 50px;
+    margin-top: 4vh;
     width: 15vw !important;
 }
 .menu nav a {

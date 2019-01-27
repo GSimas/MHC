@@ -245,6 +245,12 @@
         width: 33vw;
         height: 35vw;
     }
+    h4 {
+        font-size: 25px;
+        font-weight: 100;
+        line-height: 30px;
+        margin: 0;
+    }
     .menu-link:hover {
         color: #999;
     }
