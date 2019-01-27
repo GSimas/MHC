@@ -380,7 +380,7 @@ h5 {
     z-index: 100;
     color: #f8f8f8;
     background: #000000;
-    width: 200px;
+    width: 15vw;
     left: 0px;
     top: 0px;
     height: 100%;
@@ -391,7 +391,7 @@ h5 {
     left: 0px;
     right: 0px;
     bottom: 50px;
-    width: 200px !important;
+    width: 15vw !important;
 }
 .menu nav a {
     display: block;
@@ -474,7 +474,7 @@ h5 {
 
 .content-scroller {
     position: absolute;
-    left: 200px;
+    left: 15vw;
     right: 0px;
     overflow: hidden;
     height: 100%;

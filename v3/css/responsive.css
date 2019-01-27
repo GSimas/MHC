@@ -235,8 +235,15 @@
         color: #FFF;
     }
     .blocomobile {
-        margin: 150px;
+        margin-left: 32vw;
+        margin-right: 32vw;
+        margin-top: 30vw;
+        margin-bottom: 30vw;
         display: block;
+    }
+    .blocomobile img {
+        width: 33vw;
+        height: 35vw;
     }
     .menu-link:hover {
         color: #999;
