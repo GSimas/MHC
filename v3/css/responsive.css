@@ -183,8 +183,8 @@
         height: 460px;
     }
     .menu nav {
-        top: 50px;
-        bottom: 20px;
+        top: 0px;
+        bottom: 0px;
     }
     .content-scroller {
         position: relative;
@@ -272,11 +272,11 @@
         overflow: visible !important;
         width: 100% !important;
         background-color: #000;
-        height: 400px;
+        height: 40px;
     }
     nav.active .jspContainer {
         background-color: #000;
-        height: 380px !important;
+        height: 250px !important;
         width: 100% !important;
     }
     .menu {
